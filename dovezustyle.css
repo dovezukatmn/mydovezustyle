@@ -6,7 +6,6 @@ border: 0px !important;
 padding: 1px;
 opacity: 1;
 }
-
 .new-widget #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list .sm-option.has-picture input[type=checkbox]:checked+.sm-label.has-nothing, body.new-widget #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list.sm-checkbox-group.sm-radio .sm-option input[type=checkbox]:checked+.sm-label.has-nothing {
     border: 1px solid #ff7937;
     background: #fcfcfc;
