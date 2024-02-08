@@ -265,7 +265,7 @@ body.new-widget #smartomato-application .sm-modal-overlay .configurator-modal .c
     border: 3px solid #898989a3;
 }
 
-.burger-menu[data-v-482dd26d] {
+.burger-menu {
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
