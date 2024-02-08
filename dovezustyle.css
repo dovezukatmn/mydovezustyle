@@ -1,7 +1,6 @@
 .new-widget #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list .has-picture .sm-label img {
     opacity: 0.5;
 }
-0000
 #smartomato-application .sm-checkbox-group.sm-radio input[type=checkbox]:checked+.sm-label:before, #smartomato-application .sm-comment.info, #smartomato-application .sm-modal-overlay .sm-modal-dialog.configurator-modal .configuration-list .configuration .option-list .sm-option input[type=checkbox]:checked+.sm-label img, #smartomato-application .sm-modal-overlay .sm-modal-dialog.configurator-modal .configuration-list .configuration .option-list .sm-option.has-picture .sm-label.has-amount img {
 border: 0px !important;
 padding: 1px;
