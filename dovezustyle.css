@@ -12,11 +12,7 @@ opacity: 1;
     background: #fcfcfc;
     box-shadow: none;
     border-radius: 20px;
-
 }
-
-
-
 .new-widget #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list.sm-checkbox-group.sm-radio .sm-option .sm-label.has-nothing {
     display: flex;
     justify-content: space-around !important;
@@ -27,20 +23,17 @@ opacity: 1;
     box-shadow: 0 0 10px 5px rgb(241 241 241);
     border-radius: 20px;
 }
-
 .new-widget #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list .has-picture .sm-label img {
     height: 90px;
     width: 90px;
     border-radius: 18px;
     margin: 0px 0px 0px 5px !important;
 }
-
 .new-widget #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list .has-picture .sm-label .option-name, #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list.sm-checkbox-group.sm-radio .sm-option .sm-label.has-nothing .option-name {
     font-size: 14px;
     font-weight: 600 !important;
     margin: 10px auto auto auto  !important;
 }
-
 body.new-widget #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list.sm-checkbox-group.sm-radio .sm-option .sm-label.has-nothing .option-price {
     color: #000;
     text-align: right;
