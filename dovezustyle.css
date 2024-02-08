@@ -206,3 +206,68 @@ body.new-widget #smartomato-application .sm-modal-overlay .configurator-modal .c
 .new-widget #smartomato-application .sm-modal-overlay .configurator-modal .container-body .configuration-list .configuration .option-list input[type=checkbox]:checked+.sm-label .option-price {
     color: #e85e3f !important;
 }
+
+.counter.rounded {
+    border-radius: 30px;
+	height: 40px;
+}
+.counter.rounded.active {
+    border: 1px solid #fb5110;
+}
+.counter.active .holder {
+    background: #ffffff;
+
+}
+.counter.active .decrease{
+    min-width: 30px;
+}
+
+.counter.active .holder .increase, .counter.active .holder .decrease, .counter.active .holder input {
+    color: #e00;
+}
+.title-h2, h2 {
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0 0 40px;
+    /* background: #f6f6f6; */
+}
+.side .side-menu .sub-nav li a {
+    border-radius: 16px;
+    display: block;
+    margin: 0 0 10px;
+    padding: 10px 20px;
+    white-space: normal;
+    width: 100%;
+    font-size: 16px;
+}
+
+.list-product .holder-block {
+    box-shadow: 0px 8px 7px 1px rgb(48 48 48 / 3%);
+}
+
+.bottom-header {
+    padding: 10px 0;
+}
+
+.header-navigation:after {
+
+    height: 10px;
+}
+
+.burger-menu ul li {
+    /* margin: 0 0 15px; */
+    max-width: 48%;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 100%;
+    padding: 8px;
+    border: 3px solid #898989a3;
+}
+
+.burger-menu[data-v-482dd26d] {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0 0 40px;
+}
